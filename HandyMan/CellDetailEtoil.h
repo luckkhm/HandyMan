@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  CellDetailEtoil.h
 //  HandyMan
 //
-//  Created by Ahmed Khemiri on 1/27/17.
+//  Created by Ahmed Khemiri on 3/29/17.
 //  Copyright © 2017 Ahmed Khemiri. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CellDetailEtoil : UITableViewCell
 
 @end
-
